@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069438088848",
+    "project_id": "signuplogin-ddf0f",
+    "storage_bucket": "signuplogin-ddf0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069438088848:android:6840344aae574c8adf0a15",
+        "android_client_info": {
+          "package_name": "com.example.signup_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069438088848-31n4ikmjfm156l9p69ti5fdgjpssm9ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMeEQ7ugGL4F93MtqycmxNR7Zpt7ovo5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069438088848-31n4ikmjfm156l9p69ti5fdgjpssm9ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

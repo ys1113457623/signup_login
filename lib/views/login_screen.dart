@@ -176,7 +176,7 @@ class _LoginScreenState extends State<LoginScreen> {
       } on FirebaseAuthException catch (error) {
         switch (error.code) {
           case "invalid-email":
-            errorMessage = "Your email address appears to be malformed.";
+            errorMessage = "Invalid Email";
 
             break;
           case "wrong-password":
